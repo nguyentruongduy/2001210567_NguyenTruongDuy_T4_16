@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\NTDuy\NguyenTruongDuy_Buoi1\NguyenTruongDuy_Buoi1\bin\Debug\NguyenTruongDuy_Buoi1.exe.config
+E:\LuuDuLieuSinhVien\NTDuy\NguyenTruongDuy_Buoi1\NguyenTruongDuy_Buoi1\obj\Debug\NguyenTruongDuy_Buoi1.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\NTDuy\NguyenTruongDuy_Buoi1\NguyenTruongDuy_Buoi1\bin\Debug\NguyenTruongDuy_Buoi1.exe
+E:\LuuDuLieuSinhVien\NTDuy\NguyenTruongDuy_Buoi1\NguyenTruongDuy_Buoi1\bin\Debug\NguyenTruongDuy_Buoi1.pdb
+E:\LuuDuLieuSinhVien\NTDuy\NguyenTruongDuy_Buoi1\NguyenTruongDuy_Buoi1\obj\Debug\NguyenTruongDuy_Buoi1.exe
+E:\LuuDuLieuSinhVien\NTDuy\NguyenTruongDuy_Buoi1\NguyenTruongDuy_Buoi1\obj\Debug\NguyenTruongDuy_Buoi1.pdb
