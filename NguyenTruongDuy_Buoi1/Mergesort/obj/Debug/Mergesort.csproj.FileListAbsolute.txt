@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\NTDuy\Code nop\NguyenTruongDuy_Buoi1\Mergesort\bin\Debug\Mergesort.exe.config
+E:\LuuDuLieuSinhVien\NTDuy\Code nop\NguyenTruongDuy_Buoi1\Mergesort\bin\Debug\Mergesort.exe
+E:\LuuDuLieuSinhVien\NTDuy\Code nop\NguyenTruongDuy_Buoi1\Mergesort\bin\Debug\Mergesort.pdb
+E:\LuuDuLieuSinhVien\NTDuy\Code nop\NguyenTruongDuy_Buoi1\Mergesort\obj\Debug\Mergesort.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\NTDuy\Code nop\NguyenTruongDuy_Buoi1\Mergesort\obj\Debug\Mergesort.exe
+E:\LuuDuLieuSinhVien\NTDuy\Code nop\NguyenTruongDuy_Buoi1\Mergesort\obj\Debug\Mergesort.pdb
