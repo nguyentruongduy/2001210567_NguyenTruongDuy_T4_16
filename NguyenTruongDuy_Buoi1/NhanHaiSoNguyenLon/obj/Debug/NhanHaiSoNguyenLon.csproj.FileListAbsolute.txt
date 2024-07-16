@@ -1,0 +1,7 @@
+D:\Phan Tich Thiet Ke Thuat Toan\2001210567_NguyenTruongDuy_T4_16\NguyenTruongDuy_Buoi1\NhanHaiSoNguyenLon\bin\Debug\NhanHaiSoNguyenLon.exe.config
+D:\Phan Tich Thiet Ke Thuat Toan\2001210567_NguyenTruongDuy_T4_16\NguyenTruongDuy_Buoi1\NhanHaiSoNguyenLon\bin\Debug\NhanHaiSoNguyenLon.exe
+D:\Phan Tich Thiet Ke Thuat Toan\2001210567_NguyenTruongDuy_T4_16\NguyenTruongDuy_Buoi1\NhanHaiSoNguyenLon\bin\Debug\NhanHaiSoNguyenLon.pdb
+D:\Phan Tich Thiet Ke Thuat Toan\2001210567_NguyenTruongDuy_T4_16\NguyenTruongDuy_Buoi1\NhanHaiSoNguyenLon\obj\Debug\NhanHaiSoNguyenLon.csproj.AssemblyReference.cache
+D:\Phan Tich Thiet Ke Thuat Toan\2001210567_NguyenTruongDuy_T4_16\NguyenTruongDuy_Buoi1\NhanHaiSoNguyenLon\obj\Debug\NhanHaiSoNguyenLon.csproj.CoreCompileInputs.cache
+D:\Phan Tich Thiet Ke Thuat Toan\2001210567_NguyenTruongDuy_T4_16\NguyenTruongDuy_Buoi1\NhanHaiSoNguyenLon\obj\Debug\NhanHaiSoNguyenLon.exe
+D:\Phan Tich Thiet Ke Thuat Toan\2001210567_NguyenTruongDuy_T4_16\NguyenTruongDuy_Buoi1\NhanHaiSoNguyenLon\obj\Debug\NhanHaiSoNguyenLon.pdb
