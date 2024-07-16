@@ -1,0 +1,6 @@
+D:\Phan Tich Thiet Ke Thuat Toan\2001210567_NguyenTruongDuy_T4_16\NguyenTruongDuy_Buoi1\TimKiemNhiPhan\bin\Debug\TimKiemNhiPhan.exe.config
+D:\Phan Tich Thiet Ke Thuat Toan\2001210567_NguyenTruongDuy_T4_16\NguyenTruongDuy_Buoi1\TimKiemNhiPhan\bin\Debug\TimKiemNhiPhan.exe
+D:\Phan Tich Thiet Ke Thuat Toan\2001210567_NguyenTruongDuy_T4_16\NguyenTruongDuy_Buoi1\TimKiemNhiPhan\bin\Debug\TimKiemNhiPhan.pdb
+D:\Phan Tich Thiet Ke Thuat Toan\2001210567_NguyenTruongDuy_T4_16\NguyenTruongDuy_Buoi1\TimKiemNhiPhan\obj\Debug\TimKiemNhiPhan.csproj.CoreCompileInputs.cache
+D:\Phan Tich Thiet Ke Thuat Toan\2001210567_NguyenTruongDuy_T4_16\NguyenTruongDuy_Buoi1\TimKiemNhiPhan\obj\Debug\TimKiemNhiPhan.exe
+D:\Phan Tich Thiet Ke Thuat Toan\2001210567_NguyenTruongDuy_T4_16\NguyenTruongDuy_Buoi1\TimKiemNhiPhan\obj\Debug\TimKiemNhiPhan.pdb
