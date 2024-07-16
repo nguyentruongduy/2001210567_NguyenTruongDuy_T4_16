@@ -1,0 +1,7 @@
+D:\Phan Tich Thiet Ke Thuat Toan\2001210567_NguyenTruongDuy_T4_16\NguyenTruongDuy_Buoi1\QuickSort\bin\Debug\QuickSort.exe.config
+D:\Phan Tich Thiet Ke Thuat Toan\2001210567_NguyenTruongDuy_T4_16\NguyenTruongDuy_Buoi1\QuickSort\bin\Debug\QuickSort.exe
+D:\Phan Tich Thiet Ke Thuat Toan\2001210567_NguyenTruongDuy_T4_16\NguyenTruongDuy_Buoi1\QuickSort\bin\Debug\QuickSort.pdb
+D:\Phan Tich Thiet Ke Thuat Toan\2001210567_NguyenTruongDuy_T4_16\NguyenTruongDuy_Buoi1\QuickSort\obj\Debug\QuickSort.csproj.AssemblyReference.cache
+D:\Phan Tich Thiet Ke Thuat Toan\2001210567_NguyenTruongDuy_T4_16\NguyenTruongDuy_Buoi1\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+D:\Phan Tich Thiet Ke Thuat Toan\2001210567_NguyenTruongDuy_T4_16\NguyenTruongDuy_Buoi1\QuickSort\obj\Debug\QuickSort.exe
+D:\Phan Tich Thiet Ke Thuat Toan\2001210567_NguyenTruongDuy_T4_16\NguyenTruongDuy_Buoi1\QuickSort\obj\Debug\QuickSort.pdb
